@@ -26,7 +26,6 @@ share/python-wheels/
 *.egg
 MANIFEST
 
-.omnibus/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -137,6 +136,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.omnibus
 
 # Spyder project settings
 .spyderproject
